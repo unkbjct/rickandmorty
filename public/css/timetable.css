@@ -1,0 +1,29 @@
+.table-list {
+    max-width: 800px;
+}
+
+th:first-child{
+    text-align: center;
+    /* padding: 20px; */
+}
+
+.td-first-child {
+    text-align: center;
+
+}
+
+.check-mark img {
+    width: 100%;
+    /* height: 100%; */
+}
+.check-mark {
+    width: 10px;
+    /* height: 48px; */
+}
+.hidden {
+    opacity: 0;
+}
+
+tr:hover a{
+    opacity: 1;
+}

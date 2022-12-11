@@ -1,0 +1,17 @@
+.season-image {
+    transition: all .1s;
+}
+
+.season-image:hover {
+    transform: translate(0, -10px);
+    box-shadow: 0 10px 20px 4px rgba(60, 60, 60, .3);
+}
+
+.season {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+

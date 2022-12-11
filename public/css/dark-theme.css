@@ -1,0 +1,36 @@
+.bg-light {
+    background-color: rgb(30, 30, 30) !important;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255, 83%) !important;
+}
+
+.wrapper {
+    background-color: rgb(60, 60, 60);
+    color: rgb(255, 255, 255, 83%) !important;
+}
+body {
+    background-color: rgb(60, 60, 60);
+    color: rgb(255, 255, 255, 83%) !important;
+}
+footer { 
+    background-color: rgb(30, 30, 30);
+    border: none !important;
+}
+
+.border {
+    border-color: rgb(10, 10, 10) !important;
+}
+
+.comment-item, .donations-content, .news-item, .admin-navbar, .admin-settings {
+    background-color: rgb(40, 40, 40);
+}
+
+#form-add-comment {
+    background-color: rgb(40, 40, 40);
+}
+
+table {
+    background-color: rgb(233, 233, 233);
+}
